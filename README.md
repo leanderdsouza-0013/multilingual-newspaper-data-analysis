@@ -62,8 +62,6 @@ The project follows a structured data analysis workflow:
 - Comparative visualizations of available publication data
 - Interactive dashboard-based exploration
 
-> The final dashboard features should reflect the charts, filters, and analyses actually implemented in the project.
-
 ## Key Insights
 
 Use this section to document findings derived from your actual analysis.
