@@ -30,7 +30,6 @@ The dataset contains **500 records** covering multiple newspapers, languages, an
 | Languages covered | 6 |
 | Newspapers covered | 11 |
 | Editions covered | 6 |
-| Geographical focus | Mangalore and Goa |
 | Data domain | Newspaper and publication analysis |
 
 The dataset provides a structured basis for exploring the distribution of newspaper publications across languages and editions.
@@ -89,7 +88,6 @@ Examples of questions the project can answer include:
 
 - The analysis is limited to the 500 records available in the dataset.
 - Findings depend on the accuracy, completeness, and consistency of the source data.
-- The dataset may not represent every newspaper or edition available in Mangalore or Goa.
 - The analysis describes the available data and should not be interpreted as a complete representation of the newspaper industry.
 
 ## Future Enhancements
